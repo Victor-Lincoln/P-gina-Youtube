@@ -57,6 +57,7 @@ body {
   background: #c00;
   font: 14px "Roboto", sans-serif;
   text-transform: uppercase;
+  padding: 8px 16px;
 }
 
 .canal .ícone {
